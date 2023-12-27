@@ -1,4 +1,4 @@
-# YSDA_2023_Image_to_Image_DDPM_project
+# YSDA 2023 Image to Image DDPM project
 
 ## Disclaimer
 
