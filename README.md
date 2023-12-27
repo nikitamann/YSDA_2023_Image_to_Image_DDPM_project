@@ -1,5 +1,9 @@
 # YSDA_2023_Image_to_Image_DDPM_project
 
+## Disclaimer
+
+While the code in ```notebooks``` is referred to as ours in this repo, we do not claim ownership of it in its entirety, as it is mostly repurposed code from associated repositories, edited for ease of use and adapted for our required datasets for this project.
+
 ## Presentation
 Presentation for the project can be found [here](https://github.com/nikitamann/YSDA_2023_Image_to_Image_DDPM_project/blob/main/Presentation%20Image-to-Image%20style%20transfer%20problem%20with%20DDPM.pdf).
 
@@ -15,7 +19,7 @@ Our code is located [here](https://github.com/nikitamann/YSDA_2023_Image_to_Imag
 ## UNIT-DDPM
 Associated repository: [UNIT-DDPM-Unofficial](https://github.com/konkuad/UNIT-DDPM-Unofficial/tree/main)
 
-- ```notebooks/unit_ddpm.ipynb``` - Our code for running UNIT-DDPM on []().
+- ```notebooks/unit_ddpm.ipynb``` - Our code for running UNIT-DDPM on [colorized-MNIST](https://github.com/jayaneetha/colorized-MNIST).
 
 *Some results:*
 
