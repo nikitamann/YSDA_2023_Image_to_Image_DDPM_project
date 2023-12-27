@@ -42,6 +42,12 @@ Associated repository: [Unpaired Image-to-Image Translation using Cycle-Consiste
   <img src="assets/160046_rec_A.png" width="250" />
 </p>
 
+*And here are some results that were achieved on this model by other people:*
+<p float="left">
+  <img src="assets/other_res_1.jper" width="250" />
+  <img src="assets/other_res_2.jpeg" width="250" /> 
+</p>
+
 ## NOT
 
 Associated repository: [Neural Optimal Transport](https://github.com/iamalexkorotin/NeuralOptimalTransport?ysclid=lqo6gh9ztk743876043)
