@@ -9,10 +9,20 @@ Assosiated repositories: [Dual Diffusion Implicit Bridges](https://github.com/su
 Our code is located [here](https://github.com/nikitamann/YSDA_2023_Image_to_Image_DDPM_project/blob/main/notebooks/DDIB_colored_MNIST_example.ipynb).
 - ```notebooks/DDIB_colored_MNIST_example.ipynb``` - Our code for running DDIB on Color-MNIST.
 
+*Some results:*
 <p align="center"><img src="assets/ddib.jpeg" width="550" /></p>
 
 ## UNIT-DDPM
 
 ## CycleGAN
+Assosiated repository: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
 
+- ```notebooks/CycleGAN.ipynb``` - Our code for running CycleGAN on [Gender Classification 200K Images | CelebA](https://www.kaggle.com/datasets/ashishjangra27/gender-recognition-200k-images-celeba?resource=download-directory).
+
+*Some results:*
+<p float="left">
+  <img src="assets/160028_real_A.png" width="100" />
+  <img src="assets/160028_fake_B.png" width="100" /> 
+  <img src="assets/160028_rec_A.png" width="100" />
+</p>
 ## NOT
