@@ -22,9 +22,12 @@ Assosiated repository: [Unpaired Image-to-Image Translation using Cycle-Consiste
 *Some results:*
 
 <p float="left">
-  Real <img src="assets/160028_real_A.png" width="250" />
-  Fake <img src="assets/160028_fake_B.png" width="250" /> 
-  Rec <img src="assets/160028_rec_A.png" width="250" />
+  Real
+  <img src="assets/160028_real_A.png" width="250" />
+  Fake
+  <img src="assets/160028_fake_B.png" width="250" /> 
+  Rec
+  <img src="assets/160028_rec_A.png" width="250" />
 </p>
 <p float="left">
   <img src="assets/160035_real_A.png" width="250" />
