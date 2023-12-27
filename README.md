@@ -13,6 +13,15 @@ Our code is located [here](https://github.com/nikitamann/YSDA_2023_Image_to_Imag
 <p float="left"><img src="assets/ddib.jpeg" width="550" /></p>
 
 ## UNIT-DDPM
+Associated repository: [UNIT-DDPM-Unofficial](https://github.com/konkuad/UNIT-DDPM-Unofficial/tree/main)
+
+- ```notebooks/unit_ddpm.ipynb``` - Our code for running UNIT-DDPM on []().
+
+*Some results:*
+
+<p float="left">
+  <img src="assets/ddpm.jpeg" alt="Real" width="250" />
+</p>
 
 ## CycleGAN
 Associated repository: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://junyanz.github.io/CycleGAN/)
