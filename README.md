@@ -44,7 +44,7 @@ Associated repository: [Unpaired Image-to-Image Translation using Cycle-Consiste
 
 *And here are some results that were achieved on this model by other people:*
 <p float="left">
-  <img src="assets/other_res_1.jper" width="250" />
+  <img src="assets/other_res_1.jpeg" width="250" />
   <img src="assets/other_res_2.jpeg" width="250" /> 
 </p>
 
