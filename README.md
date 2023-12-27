@@ -21,8 +21,23 @@ Assosiated repository: [Unpaired Image-to-Image Translation using Cycle-Consiste
 
 *Some results:*
 <p float="left">
-  <img src="assets/160028_real_A.png" width="100" />
-  <img src="assets/160028_fake_B.png" width="100" /> 
-  <img src="assets/160028_rec_A.png" width="100" />
+  <img src="assets/160028_real_A.png" width="250" />
+  <img src="assets/160028_fake_B.png" width="250" /> 
+  <img src="assets/160028_rec_A.png" width="250" />
+</p>
+<p float="left">
+  <img src="assets/160035_real_A.png" width="250" />
+  <img src="assets/160035_fake_B.png" width="250" /> 
+  <img src="assets/160035_rec_A.png" width="250" />
+</p>
+<p float="left">
+  <img src="assets/160044_real_A.png" width="250" />
+  <img src="assets/160044_fake_B.png" width="250" /> 
+  <img src="assets/160044_rec_A.png" width="250" />
+</p>
+<p float="left">
+  <img src="assets/160046_real_A.png" width="250" />
+  <img src="assets/160046_fake_B.png" width="250" /> 
+  <img src="assets/160046_rec_A.png" width="250" />
 </p>
 ## NOT
